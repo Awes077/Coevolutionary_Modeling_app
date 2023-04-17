@@ -1,4 +1,4 @@
-# Coevolutionary_Modeling_app (Still Under Construction)
+# Coevolutionary Modeling app (Still Under Construction)
 A Shiny app to introduce and explore a variety of coevolutionary models from the literature (citations below). You can download the app and run it locally on your machine or view it live here: https://awes077.shinyapps.io/coevolutionmodels/
 
 Feel free to reach out if you have questions!
