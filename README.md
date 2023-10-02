@@ -7,7 +7,6 @@ Models included:
 
 Gavrilets S, Hastings A. Coevolutionary chase in two-species systems with applications to mimicry. J Theor Biol. 1998 Apr 21;191(4):415-27. doi: 10.1006/jtbi.1997.0615. PMID: 9631575.
 
-Gavrilets S, Hastings A. Coevolutionary chase in two-species systems with applications to mimicry. J Theor Biol. 1998 Apr 21;191(4):415-27. doi: 10.1006/jtbi.1997.0615. PMID: 9631575.
 
 Nuismer Scott L., Thompson John N. and Gomulkiewicz Richard, Gene flow and geographically structured coevolutionProc. R. Soc. Lond. B. 1999 266605–609. 
 http://doi.org/10.1098/rspb.1999.0679
